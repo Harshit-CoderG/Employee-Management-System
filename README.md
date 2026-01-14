@@ -107,7 +107,7 @@ This knowledge directly helped me transition smoothly to **Spring Boot and moder
 
 ---
 
-## 👤 Author
+## 🙍‍♂️ Author
 
 **Harshit**  
 Java Backend Developer (Learning Path: Servlets → Spring Boot → Security → REST APIs)
