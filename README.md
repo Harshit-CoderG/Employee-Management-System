@@ -1,4 +1,4 @@
-# Employee Management System (Servlet + JSP)
+# 🏢 Employee Management System (Servlet + JSP)
 
 A Java-based Employee Management System built using **Servlets, JSP, JDBC, and Sessions**.  
 This project was developed during my early learning phase to understand **core backend fundamentals** such as request–response flow, session management, and database interaction without frameworks.
